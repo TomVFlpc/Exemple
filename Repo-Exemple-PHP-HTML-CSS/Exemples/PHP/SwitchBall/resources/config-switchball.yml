@@ -1,0 +1,18 @@
+config-message:
+  enable: "Plugin de SwitchBall allumé avec succès !"
+  disable: "Plugin de SwitchBall éteint avec succès !"
+  cooldown: "§c» Votre SwitchBall est en cooldown !"
+  success-switch: "§a» Tu viens d'utiliser ta SwitchBall !"
+  cannot-switch: "§c» Tu ne peux pas SwitchBall cette personne !"
+
+config-settings:
+  cooldown-time: 2 #(0 = aucun cooldown)
+
+config-plugin:
+  name: "Switch Ball"
+  throw-force: 1.5
+  craft: [
+    [ 0, 264, 0 ],
+    [ 264, 332, 264 ],
+    [ 0, 264, 0 ]
+  ]

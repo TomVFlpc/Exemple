@@ -1,0 +1,4 @@
+NoPermission: "§f[§l§4ERROR§r§f]: vous n'avez pas la permission d'éxécuter cette permission"
+EffectSuccesAdd: "§f[§l§4INFO§r§f]: vous avez la vision nocturne activé"
+EffectSuccesRemove: "§f[§l§4INFO§r§f]: vous avez désactiver la vision nocturne"
+EffectVisibility: "true"

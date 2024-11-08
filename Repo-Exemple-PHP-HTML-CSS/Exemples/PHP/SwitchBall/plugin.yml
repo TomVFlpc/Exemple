@@ -1,0 +1,17 @@
+#PLUGIN INFORMATION'S
+
+name: SwitchBall
+version: "1.0"
+api: ["4.0.0"]
+main: SwitchBall\Main
+
+#OWNER INFORMATION'S
+
+author: Taruno
+discord: Taruno#0004
+github: TarunoSenpai
+
+#USEFUL LINKS
+
+plugin-shop: https://discord.gg/k5zYvuJfk6
+plugin-site-web: https://payhip.com/PluginsMcpe

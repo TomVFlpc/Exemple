@@ -1,0 +1,5 @@
+name: XYZShow
+version: 1.0.0
+api: 4.0.0
+main: Slazy\XYZ\Main
+author: Slazy

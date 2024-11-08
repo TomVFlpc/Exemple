@@ -1,0 +1,28 @@
+config-message:
+  enable: "Plugin de AntiPearlBlock allumé avec succès !"
+  disable: "Plugin de AntiPearlBlock éteint avec succès !"
+  cancel: "§c» Tu ne peux pas pearl sur ce block !"
+  cooldown: "§c» Votre enderpearl est en cooldown pendant encore {cooldown}s !"
+
+  config-settings:
+  ender-pearl-damage: 5
+  give-pearl: true
+  message-type: "message"
+  cooldown-pearl: 15
+
+  config-plugin:
+  anti-pearl-block:
+    name: "Anti Pearl Block"
+    id: 206
+    meta: 0
+    craft-quantity: 1
+    craft: [
+      [ 0, 49, 0 ],
+      [ 49, 368, 49 ],
+      [ 0, 49, 0 ]
+    ]
+  ender-pearl:
+    name: "Ender Pearl"
+    meta: 0
+    throw-force: 1.5
+    stack-size: 16

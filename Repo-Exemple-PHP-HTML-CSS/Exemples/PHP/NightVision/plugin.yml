@@ -1,0 +1,8 @@
+name: Night_Vision
+version: 1.0.0
+api: 4.0.0
+main: Slazy\NV\Main
+author: Slazy
+permissions:
+  nv.use:
+    default: all
